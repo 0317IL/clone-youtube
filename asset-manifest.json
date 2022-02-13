@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/clone-youtube/static/js/main.d51cecbc.js",
+    "static/media/logo_preto.png": "/clone-youtube/static/media/logo_preto.f974c09ac6b1d4496df6.png",
+    "static/media/avatar.jpg": "/clone-youtube/static/media/avatar.f05ab3e9db5490cb591b.jpg",
+    "static/media/logo_branco.png": "/clone-youtube/static/media/logo_branco.9e3178e90727860a85f1.png",
+    "static/media/thumb.png": "/clone-youtube/static/media/thumb.5cdfe5b6e07e6c73aae6.png",
+    "index.html": "/clone-youtube/index.html",
+    "main.d51cecbc.js.map": "/clone-youtube/static/js/main.d51cecbc.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.d51cecbc.js"
+  ]
+}
